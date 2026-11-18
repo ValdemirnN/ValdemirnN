@@ -1,6 +1,6 @@
 # Olá, eu sou o Valdemir 👋
 
-Desenvolvedor focado em sistemas web e mobile. Atualmente estudando/construindo [o que você faz hoje].
+Bacharel em Sistemas de Informação. Crio dashboards em Power BI, automações e plataformas web e mobile sob medida.
 
 ## 🛠️ Tecnologias
 
